@@ -1,0 +1,1 @@
+2017-01-07 14:49:01.7954 DiscScrubber.MainWindow starting up application

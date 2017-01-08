@@ -1,0 +1,5 @@
+2017-01-07 20:06:27.0058 DiscScrubber.MainWindow starting up application
+2017-01-07 20:13:48.7977 DiscScrubber.MainWindow starting up application
+2017-01-07 20:14:45.1605 DiscScrubber.MainWindow starting up application
+2017-01-08 08:17:20.5214 DiscScrubber.MainWindow starting up application
+2017-01-08 08:17:49.2496 DiscScrubber.MainWindow starting up application

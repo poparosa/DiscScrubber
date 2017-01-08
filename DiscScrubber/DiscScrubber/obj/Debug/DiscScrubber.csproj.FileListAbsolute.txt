@@ -1,0 +1,16 @@
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\bin\Debug\DiscScrubber.exe.config
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\bin\Debug\DiscScrubber.exe
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\bin\Debug\DiscScrubber.pdb
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\obj\Debug\DiscScrubber.csprojResolveAssemblyReference.cache
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\obj\Debug\MainWindow.g.cs
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\obj\Debug\App.g.cs
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\obj\Debug\DiscScrubber_MarkupCompile.cache
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\obj\Debug\DiscScrubber_MarkupCompile.lref
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\obj\Debug\MainWindow.baml
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\obj\Debug\DiscScrubber.g.resources
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\obj\Debug\DiscScrubber.Properties.Resources.resources
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\obj\Debug\DiscScrubber.csproj.GenerateResource.Cache
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\obj\Debug\DiscScrubber.exe
+c:\users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\obj\Debug\DiscScrubber.pdb
+C:\Users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\bin\Debug\NLog.dll
+C:\Users\pop\documents\visual studio 2015\Projects\DiscScrubber\DiscScrubber\bin\Debug\NLog.xml

@@ -1,0 +1,18 @@
+﻿<Window x:Class="DiscScrubber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DiscScrubber"
+        mc:Ignorable="d"
+        Title="DiscScrubber" Height="234" Width="332">
+	<Grid Background="Aquamarine" Margin="0,0,-8,-4" >
+		<ComboBox x:Name="DeviceList" HorizontalAlignment="Left" Margin="102,71,0,0" VerticalAlignment="Top" Width="202" SelectionChanged="DeviceList_SelectionChanged"/>
+		<Label x:Name="Label" Content="Device" HorizontalAlignment="Left" Margin="23,71,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.059,-0.131"/>
+		<Button x:Name="Start" Content="Start" HorizontalAlignment="Left" Margin="23,107,0,0" VerticalAlignment="Top" Width="106" Click="Start_Click"/>
+		<Button x:Name="Erase" Content="Erase" HorizontalAlignment="Left" Margin="207,107,0,0" VerticalAlignment="Top" Width="97" Click="Erase_Click"/>
+		<StackPanel x:Name="ProgessBar" HorizontalAlignment="Left" Height="19" Margin="23,159,0,0" VerticalAlignment="Top" Width="281" Background="AliceBlue"/>
+		<Image x:Name="Logo" HorizontalAlignment="Left" Height="40" Margin="23,16,0,0" VerticalAlignment="Top" Width="40" RenderTransformOrigin="0.016,0.32"/>
+		<TextBlock x:Name="Blurb" HorizontalAlignment="Left" Margin="102,16,0,0" TextWrapping="Wrap" Text="Blurb" VerticalAlignment="Top" Height="40" Width="202"/>
+	</Grid>
+</Window>
